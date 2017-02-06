@@ -4,3 +4,4 @@ This line representes 1 commit.
 This new line represents a new commit.
 This line is a new commit
 This line is the last commit
+This line is the last commit
